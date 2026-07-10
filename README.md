@@ -49,8 +49,8 @@ nourish/
 ### Option 1 — Clone the repo
 
 ```bash
-git clone git@github.com:akash098p/Nourish.git
-cd nourish
+git clone https://github.com/akash098p/Nourish.git
+cd Nourish 
 ```
 
 Then just open `index.html` in your browser — no install step, no server required.
@@ -121,12 +121,6 @@ No API key is needed for the free tier used here.
 
 ---
 
-## Contributing
-
-Issues and pull requests are welcome. If you're adding a feature, keep it dependency‑free in spirit — that's the whole point of this project.
-
----
-
 ## Credits
 
 Recipe data and images courtesy of [TheMealDB](https://www.themealdb.com/).
@@ -135,4 +129,4 @@ Recipe data and images courtesy of [TheMealDB](https://www.themealdb.com/).
 
 ## License
 
-MIT — free to use, modify, and share. Recipe content and images belong to TheMealDB and their respective contributors.
+MIT — free to use, modify and share. Recipe content and images belong to TheMealDB and their respective contributors.
