@@ -2,8 +2,6 @@
 
 A clean, minimal recipe finder. Search any dish, ingredient, or cuisine and get full ingredient lists with step‑by‑step instructions — no clutter, no ads, no sign‑up.
 
-Built with plain HTML, CSS, and JavaScript — no frameworks, no build step — with light and dark mode, powered by [TheMealDB](https://www.themealdb.com/api.php).
-
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
@@ -51,7 +49,7 @@ nourish/
 ### Option 1 — Clone the repo
 
 ```bash
-git clone https://github.com/<your-username>/nourish.git
+git clone git@github.com:akash098p/Nourish.git
 cd nourish
 ```
 
