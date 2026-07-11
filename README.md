@@ -44,8 +44,8 @@ Visit this URL : https://akash098p.github.io/Nourish/
 ```
 nourish/
 ├── index.html     # page markup and structure
-├── style.css      # theming, layout, and component styles
-└── script.js      # search logic, API calls, and modal behavior
+├── style.css      # theming, layout and component styles
+└── script.js      # search logic, API calls and modal behavior
 ```
 
 ---
