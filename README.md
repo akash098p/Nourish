@@ -32,8 +32,8 @@ A clean, minimal recipe finder. Search any dish, ingredient, or cuisine and get 
 Open `index.html` in any modern browser — that's the whole app.
 
 <p align="center">
-  <img src="https://i.postimg.cc/wTZRhrmL/naurish1.png" width="50%">
-  <img src="https://i.postimg.cc/x8FJpxFc/naurish2.png" width="50%">
+  <img src="https://i.postimg.cc/wTZRhrmL/naurish1.png" width="48%">
+  <img src="https://i.postimg.cc/x8FJpxFc/naurish2.png" width="48%">
 </p>
 Visit this URL : https://akash098p.github.io/Nourish/
 
